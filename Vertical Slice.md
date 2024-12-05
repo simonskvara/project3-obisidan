@@ -82,4 +82,6 @@ The only downside of this is that it only works for convex polygons, but it is e
 Overall we busted our asses this week, because of the upcoming Vertical Slice deadline.
 
 ## Vertical Slice deadline (3. 12.)
-So today 
+So today we had the Vertical Slice presentation. To say the least it was a disappointing result. Although we did a lot, the result was lacking. Although Jörg had a lot of valid criticisms it felt incredibly disappointing not having validation for the hard work we put in. 
+Admittedly, we are making an action game and we didn't have feedback for the action. Also the combat feels very slow, I think that partly might be because of how the enemies move and maybe the slow bullets. 
+The thing is, we already knew about those, but we don't have any time to do that with all the different projects we also have to work on. I suppose we will have to downscale even more to finish this game.
