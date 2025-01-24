@@ -1,0 +1,4 @@
+To summarize the project. We definitely overscoped even though we want to do something within our range. That I think we failed. However in the end I think we created something that's at least somewhat fun. And one might argue that a fun game is a good game. But what definitely helps is the fact you can play it with a controller. It just adds so much to the game because it feels way better then the keyboard. 
+From a personal perspective, I learned a lot of coding. This semester I tried following proper coding 'rule sets' like separating scripts into components. Now that I am going further into coding and taking advice from Hagen's consultations I am enjoying coding more and more.
+
+Overall, we made a game that I am proud of and even enjoy. 
